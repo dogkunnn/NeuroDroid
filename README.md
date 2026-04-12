@@ -13,6 +13,36 @@
 
 NeuroDroid represents the next generation of mobile artificial intelligence, bringing sophisticated voice assistant capabilities directly to your Android device. This cutting-edge application combines on-device machine learning with cloud-based AI services to deliver a seamless, intelligent, and responsive user experience.
 
+## Demo & Screenshots
+
+<p align="center">
+  <b>App Overview:</b> <br/>
+  <img src="screenshots/gif1.gif" alt="NeuroDroid App Overview GIF" width="300">
+</p>
+
+<p align="center">
+  <b>Key Features in Action:</b> <br/>
+</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="screenshots/image1.png" alt="Voice Interface" width="250">
+    </td>
+    <td>
+      <img src="screenshots/image2.png" alt="Chat Screen" width="250">
+    </td>
+    <td>
+      <img src="screenshots/image3.png" alt="Settings" width="250">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Voice Interface</b></td>
+    <td align="center"><b>Chat Screen</b></td>
+    <td align="center"><b>Settings</b></td>
+  </tr>
+</table>
+
 ## ✨ Core Capabilities
 
 ### 🎯 Smart Intent Recognition
@@ -181,19 +211,3 @@ We welcome contributions from the developer community! Here's how you can help:
 - **Real-time translation** improvements
 - **Enhanced privacy features**
 - **Cross-platform synchronization**
-
-## 📄 License & Attribution
-
-This project is proudly licensed under the **MIT License** - see the [LICENSE](LICENSE) file for complete details.
-
-**Copyright © 2025 Shubham Thorat**
-
----
-
-<div align="center">
-
-**🌟 If NeuroDroid enhances your Android experience, consider giving us a star!**
-
-[![GitHub stars](https://img.shields.io/github/stars/your-username/NeuroDroid.svg?style=social&label=Star)](https://github.com/your-username/NeuroDroid)
-
-</div>
